@@ -1,6 +1,6 @@
 # rafa
 
-# fulano
+# integrante 2
 
 # integrante 3
 
