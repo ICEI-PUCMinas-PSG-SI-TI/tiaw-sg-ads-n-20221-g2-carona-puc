@@ -1,5 +1,5 @@
 # Carona PUC
-O projeto tem como objetivo principal desenvolver um sistema de carona para os alunos da PUC. O sistema funciona como uma forma de interação entre os usuários, garantindo um meio de transporte eficaz e seguro para as universidades.
+O projeto tem como objetivo principal desenvolver um sistema de carona para os alunos da PUC. O sistema funciona como uma forma de interação entre os usuários, garantindo um meio de transporte eficaz e seguro até as universidades.
 ## Alunos integrantes da equipe
 
 * Matheus Igor Siqueira
