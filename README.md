@@ -1,6 +1,5 @@
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
-
+# Carona PUC
+O projeto tem como objetivo principal desenvolver um sistema de carona para os alunos da PUC. O sistema funciona como uma forma de interação entre os usuários, garantindo um meio de transporte eficaz e seguro para as universidades.
 ## Alunos integrantes da equipe
 
 * Matheus Igor Siqueira
