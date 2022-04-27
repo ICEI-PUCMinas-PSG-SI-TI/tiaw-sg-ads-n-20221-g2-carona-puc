@@ -229,7 +229,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > **Exemplo**:
 > 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> ![Exemplo de Wireframe](images/wireframe1.jpeg)
+> > ![Exemplo de Wireframe](images/wireframe2.jpeg)
 
 
 # Metodologia
