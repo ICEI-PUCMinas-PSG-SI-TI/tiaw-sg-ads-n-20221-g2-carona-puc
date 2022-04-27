@@ -68,23 +68,7 @@ Com isso, nos deparamos com a ausência de uma solução para diminuir a quantid
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+As universidades são um destino em comum para diversos estudantes, que podem utilizar do sistema para encontrar e oferecer parceiros de carona. Dessa forma, estabeleceu-se como público alvo os estudantes da PUC de todas as unidades, sem restrição de idade ou sexo, que estejam matriculados e tenham dificuldade no deslocamento até a faculdade.
 # Especificações do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
