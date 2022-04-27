@@ -62,19 +62,9 @@ Como objetivo principal do trabalho temos a criação de um sistema para os alun
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Um estudo lançado pelo Instituto de Energia e Meio Ambiente (IEMA) revela que os automóveis são responsáveis por 72,6% das emissões de gases efeito estufa (GEE), vilões do aquecimento global, e respondem por 88% dos quilômetros rodados por veículos motorizados na capital. Juntamente, ao longo de 2021, houve um aumento de 49,02% nos preços de combustíveis no Brasil, calculado pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Com isso, nos deparamos com a ausência de uma solução para diminuir a quantidade de veículos nas ruas, aumentando a interação e a popularização da carona entre as pessoas. Sendo benéfico para o motorista, passageiros e preservação do meio ambiente.
 
 ## Público-Alvo
 
