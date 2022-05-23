@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5641e0b1-cd6c-42d0-a035-7fc71c57b87c" name="Changes" comment="LANDINGPAGEIMG" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="branch2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="287IxqJ1N61iHoFkscHaR4UkxcC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5641e0b1-cd6c-42d0-a035-7fc71c57b87c" name="Changes" comment="" />
+      <created>1650561452992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650561452992</updated>
+      <workItem from="1650561470469" duration="1497000" />
+      <workItem from="1650563199442" duration="52000" />
+      <workItem from="1650563266362" duration="42000" />
+      <workItem from="1650563397006" duration="3438000" />
+      <workItem from="1650739481805" duration="2638000" />
+      <workItem from="1651025782237" duration="1262000" />
+      <workItem from="1651027878528" duration="82000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1650561942033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650561942033</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1650562573021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650562573021</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1650562851010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1650562851010</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1650562899643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1650562899643</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <created>1650563867886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1650563867886</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <created>1650569075957</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650569075957</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test">
+      <created>1650569141574</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650569141574</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <created>1650569688144</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650569688145</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <created>1650569913389</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650569913389</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test">
+      <created>1650570095320</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1650570095320</updated>
+    </task>
+    <task id="LOCAL-00011" summary="MATRIZCSD">
+      <created>1650740712449</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1650740712449</updated>
+    </task>
+    <task id="LOCAL-00012" summary="STAKEHOLDERS">
+      <created>1650744443996</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1650744443996</updated>
+    </task>
+    <task id="LOCAL-00013" summary="STAKEHOLDERS">
+      <created>1650744455267</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1650744455267</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="branch2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="MATRIZCSD" />
+    <MESSAGE value="LANDINGPAGEIMG" />
+    <option name="LAST_COMMIT_MESSAGE" value="LANDINGPAGEIMG" />
+  </component>
+</project>
