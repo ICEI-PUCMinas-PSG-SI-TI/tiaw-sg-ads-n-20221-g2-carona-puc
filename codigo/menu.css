@@ -1,0 +1,25 @@
+/*Rafaela Ferreira Guimarães*/
+
+*{
+    box-sizing: border-box;
+    background-color: #6FB3A1;
+
+}
+.menu{
+    border-radius: 6px;
+    z-index: 1;
+  }
+  .menu a {
+    color: rgb(255, 255, 255);
+    padding: 1.563rem;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+    display: block;
+  }
+  .menu a:hover {
+    color: #025A7D;
+  }

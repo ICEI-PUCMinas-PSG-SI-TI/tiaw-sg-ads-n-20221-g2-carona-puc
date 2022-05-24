@@ -1,3 +1,4 @@
+<!--Rafaela Ferreira Guimarães-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,34 +22,67 @@
   
     <nav class="navbar">
         <div class="logo">
-            <a href=""><img src="imgs/logoCarona.svg" alt="Logomarca Autoral do Sistema"></a>
+            <a href="index.html"><img src="imgs/logoCarona.svg" alt="Logomarca Autoral do Sistema"></a>
         </div>
         <div class="pags">
             <ul>
-                <li><a href="">Painel</a></li>
+                <li><a href="index.html">Painel</a></li>
                 <li><a href="">Meus Parceiros</a></li>
             </ul>
         </div>
         <div class="perfil">
             <a href=""><img src="imgs/Person.svg" alt="Ícone Perfil"></a>
         </div>
-        <div class="toggle" >
-            <img src="imgs/menu.svg" alt="">
-        </div>
+        <a class="toggle" href="menu.html"><img src="imgs/menu.svg" alt=""></a>
     </nav>
     <div class="filtros">
       <div class="dropdown">
-        <button onclick="myFunction()" class="dropbtn">PUC de Destino <img src="imgs/seta.svg" alt=""></button>
+        <p>PUC de destino: </p>
+        <button onclick="myFunction()" class="dropbtn">Escolher<img src="imgs/seta.svg" alt=""></button>
         <div id="myDropdown" class="dropdown-content">
           <input type="text" placeholder="Buscar.." id="myInput" onkeyup="filterFunction()">
-          <a href="#São Gabriel">São Gabriel</a>
-          <a href="#base">Praça da Liberdade</a>
-          <a href="#blog">Barreiro</a>
-          <a href="#contact">Contagem</a>
-          <a href="#custom">Coração Eucarístico</a>
-          <a href="#support">Betim</a>
+          <a href="#são gabriel">São Gabriel</a>
+          <a href="#praça">Praça da Liberdade</a>
+          <a href="#barreiro">Barreiro</a>
+          <a href="#conta">Contagem</a>
+          <a href="#coreu">Coração Eucarístico</a>
+          <a href="#betim">Betim</a>
         </div>
       </div>
+      <div class="dropdown">
+        <p>Bairro de Origem: </p>
+        <button onclick="myFunction2()" class="dropbtn">Escolher <img src="imgs/seta.svg" alt=""></button>
+        <div id="myDropdown2" class="dropdown-content">
+          <input type="text" placeholder="Buscar.." id="myInput" onkeyup="filterFunction2()">
+          <a href="#ex1">Exemplo1</a>
+          <a href="#ex2">Exemplo 2</a>
+          <a href="#ex3">Exemplo 3</a>
+          <a href="#ex4">Exemplo 4</a>
+          <a href="#ex5">Exemplo 5</a>
+          <a href="#ex6">Exemplo 6</a>
+        </div>
+      </div>
+      <div class="dropdown">
+        <p>Gênero: </p>
+        <button onclick="myFunction3()" class="dropbtn">Escolher <img src="imgs/seta.svg" alt=""></button>
+        <div id="myDropdown3" class="dropdown-content">
+          <input type="text" placeholder="Buscar.." id="myInput" onkeyup="filterFunction3()">
+          <a href="#ex1">Feminino</a>
+          <a href="#ex2">Masculino</a>
+          <a href="#ex3">Outro</a>
+        </div>
+      </div>
+      <div class="dropdown">
+        <p>Turno: </p>
+        <button onclick="myFunction4()" class="dropbtn">Escolher <img src="imgs/seta.svg" alt=""></button>
+        <div id="myDropdown4" class="dropdown-content">
+          <input type="text" placeholder="Buscar.." id="myInput" onkeyup="filterFunction4()">
+          <a href="#ex1">Noturno</a>
+          <a href="#ex2">Diurno</a>
+          
+        </div>
+      </div>
+       <button id="lupa"><img src="imgs/lupa.svg" alt=""></button>
     </div>
     
     <main class="principal">
@@ -56,73 +90,73 @@
         <img src="imgs/placeholder.svg" alt="">
         <h1 class="nome">Fulano de tal</h1>
         <h2 class="estrela">★★★★☆</h2>
-        <button class="visualizar"><a href="">VISUALIZAR</a></button>
+        <button class="visualizar"><a href="visualizar.html">VISUALIZAR</a></button>
       </div>
       <div class="card">
         <img src="imgs/placeholder.svg" alt="">
         <h1 class="nome">Fulano de tal</h1>
         <h2 class="estrela">★★★★☆</h2>
-        <button class="visualizar"><a href="">VISUALIZAR</a></button>
+        <button class="visualizar"><a href="visualizar.html">VISUALIZAR</a></button>
       </div>
       <div class="card">
         <img src="imgs/placeholder.svg" alt="">
         <h1 class="nome">Fulano de tal</h1>
         <h2 class="estrela">★★★★☆</h2>
-        <button class="visualizar"><a href="">VISUALIZAR</a></button>
+        <button class="visualizar"><a href="visualizar.html">VISUALIZAR</a></button>
       </div>
       <div class="card">
         <img src="imgs/placeholder.svg" alt="">
         <h1 class="nome">Fulano de tal</h1>
         <h2 class="estrela">★★★★☆</h2>
-        <button class="visualizar"><a href="">VISUALIZAR</a></button>
+        <button class="visualizar"><a href="visualizar.html">VISUALIZAR</a></button>
       </div>
       <div class="card">
         <img src="imgs/placeholder.svg" alt="">
         <h1 class="nome">Fulano de tal</h1>
         <h2 class="estrela">★★★★☆</h2>
-        <button class="visualizar"><a href="">VISUALIZAR</a></button>
+        <button class="visualizar"><a href="visualizar.html">VISUALIZAR</a></button>
       </div>
       <div class="card">
         <img src="imgs/placeholder.svg" alt="">
         <h1 class="nome">Fulano de tal</h1>
         <h2 class="estrela">★★★★☆</h2>
-        <button class="visualizar"><a href="">VISUALIZAR</a></button>
+        <button class="visualizar"><a href="visualizar.html">VISUALIZAR</a></button>
       </div>
       <div class="card">
         <img src="imgs/placeholder.svg" alt="">
         <h1 class="nome">Fulano de tal</h1>
         <h2 class="estrela">★★★★☆</h2>
-        <button class="visualizar"><a href="">VISUALIZAR</a></button>
+        <button class="visualizar"><a href="visualizar.html">VISUALIZAR</a></button>
       </div>
       <div class="card">
         <img src="imgs/placeholder.svg" alt="">
         <h1 class="nome">Fulano de tal</h1>
         <h2 class="estrela">★★★★☆</h2>
-        <button class="visualizar"><a href="">VISUALIZAR</a></button>
+        <button class="visualizar"><a href="visualizar.html">VISUALIZAR</a></button>
       </div>
       <div class="card">
         <img src="imgs/placeholder.svg" alt="">
         <h1 class="nome">Fulano de tal</h1>
         <h2 class="estrela">★★★★☆</h2>
-        <button class="visualizar"><a href="">VISUALIZAR</a></button>
+        <button class="visualizar"><a href="visualizar.html">VISUALIZAR</a></button>
       </div>
       <div class="card">
         <img src="imgs/placeholder.svg" alt="">
         <h1 class="nome">Fulano de tal</h1>
         <h2 class="estrela">★★★★☆</h2>
-        <button class="visualizar"><a href="">VISUALIZAR</a></button>
+        <button class="visualizar"><a href="visualizar.html">VISUALIZAR</a></button>
       </div>
       <div class="card">
         <img src="imgs/placeholder.svg" alt="">
         <h1 class="nome">Fulano de tal</h1>
         <h2 class="estrela">★★★★☆</h2>
-        <button class="visualizar"><a href="">VISUALIZAR</a></button>
+        <button class="visualizar"><a href="visualizar.html">VISUALIZAR</a></button>
       </div>
       <div class="card">
         <img src="imgs/placeholder.svg" alt="">
         <h1 class="nome">Fulano de tal</h1>
         <h2 class="estrela">★★★★☆</h2>
-        <button class="visualizar"><a href="">VISUALIZAR</a></button>
+        <button class="visualizar"><a href="visualizar.html">VISUALIZAR</a></button>
       </div>
     </main>
     

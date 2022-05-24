@@ -1,0 +1,60 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"5641e0b1-cd6c-42d0-a035-7fc71c57b87c\" name=\"Changes\" comment=\"LANDINGPAGEIMG\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"branch2\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectId\" id=\"287IxqJ1N61iHoFkscHaR4UkxcC\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"5641e0b1-cd6c-42d0-a035-7fc71c57b87c\" name=\"Changes\" comment=\"\" />\n      <created>1650561452992</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1650561452992</updated>\n      <workItem from=\"1650561470469\" duration=\"1497000\" />\n      <workItem from=\"1650563199442\" duration=\"52000\" />\n      <workItem from=\"1650563266362\" duration=\"42000\" />\n      <workItem from=\"1650563397006\" duration=\"3438000\" />\n      <workItem from=\"1650739481805\" duration=\"2638000\" />\n      <workItem from=\"1651025782237\" duration=\"1262000\" />\n      <workItem from=\"1651027878528\" duration=\"82000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"test\">\n      <created>1650561942033</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650561942033</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"test\">\n      <created>1650562573021</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650562573021</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"test\">\n      <created>1650562851010</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650562851010</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"test\">\n      <created>1650562899643</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650562899643</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"test\">\n      <created>1650563867886</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650563867886</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"test\">\n      <created>1650569075957</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650569075957</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"test\">\n      <created>1650569141574</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650569141574</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"test\">\n      <created>1650569688144</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650569688145</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"test\">\n      <created>1650569913389</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650569913389</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"test\">\n      <created>1650570095320</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650570095320</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"MATRIZCSD\">\n      <created>1650740712449</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650740712449</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"STAKEHOLDERS\">\n      <created>1650744443996</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650744443996</updated>\n    </task>\n    <task id=\"LOCAL-00013\" summary=\"STAKEHOLDERS\">\n      <created>1650744455267</created>\n      <option name=\"number\" value=\"00013\" />\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1650744455267</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"14\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"FILTERS\">\n                <map>\n                  <entry key=\"branch\">\n                    <value>\n                      <list>\n                        <option value=\"branch2\" />\n                      </list>\n                    </value>\n                  </entry>\n                </map>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"test\" />\n    <MESSAGE value=\"MATRIZCSD\" />\n    <MESSAGE value=\"LANDINGPAGEIMG\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"LANDINGPAGEIMG\" />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="5641e0b1-cd6c-42d0-a035-7fc71c57b87c" name="Changes" comment="LANDINGPAGEIMG" />
++    <list default="true" id="5641e0b1-cd6c-42d0-a035-7fc71c57b87c" name="Changes" comment="codigo_rafa" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -10,7 +10,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="branch2" />
++        <entry key="$PROJECT_DIR$" value="master" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -51,6 +51,7 @@
+       <workItem from="1650739481805" duration="2638000" />
+       <workItem from="1651025782237" duration="1262000" />
+       <workItem from="1651027878528" duration="82000" />
++      <workItem from="1653332749965" duration="767000" />
+     </task>
+     <task id="LOCAL-00001" summary="test">
+       <created>1650561942033</created>
+@@ -143,7 +144,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1650744455267</updated>
+     </task>
+-    <option name="localTasksCounter" value="14" />
++    <task id="LOCAL-00014" summary="codigo_rafa">
++      <created>1653332886650</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1653332886650</updated>
++    </task>
++    <option name="localTasksCounter" value="15" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -176,6 +184,7 @@
+     <MESSAGE value="test" />
+     <MESSAGE value="MATRIZCSD" />
+     <MESSAGE value="LANDINGPAGEIMG" />
+-    <option name="LAST_COMMIT_MESSAGE" value="LANDINGPAGEIMG" />
++    <MESSAGE value="codigo_rafa" />
++    <option name="LAST_COMMIT_MESSAGE" value="codigo_rafa" />
+   </component>
+ </project>
+\ No newline at end of file
